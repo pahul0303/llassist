@@ -1,0 +1,10 @@
+{
+  "Questions": [
+    {
+      "Text": "How robot will detect the object?"
+    },
+    {
+      "Text": "how it will navigate?"
+    }
+  ]
+}

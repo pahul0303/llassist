@@ -1,0 +1,12 @@
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/bin/Debug/net8.0/llassist.Common.deps.json
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/bin/Debug/net8.0/llassist.Common.dll
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/bin/Debug/net8.0/llassist.Common.pdb
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/llassist.Common.csproj.AssemblyReference.cache
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/llassist.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/llassist.Common.AssemblyInfoInputs.cache
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/llassist.Common.AssemblyInfo.cs
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/llassist.Common.csproj.CoreCompileInputs.cache
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/llassist.Common.dll
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/refint/llassist.Common.dll
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/llassist.Common.pdb
+/Users/pahulnagpal/Downloads/llassist-main/llassist.Common/obj/Debug/net8.0/ref/llassist.Common.dll

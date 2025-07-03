@@ -1,0 +1,181 @@
+[
+  {
+    "Id": "01JT7XWHQBXZEZN47FRJ2N423D",
+    "Authors": "",
+    "Year": 0,
+    "Title": "Cognitive Planning for Object Goal Navigation using Generative AI Models",
+    "DOI": "",
+    "Link": "",
+    "Abstract": "Recent advancements in Generative AI, particularly in Large Language Models (LLMs) and Large Vision-Language Models (LVLMs), offer new possi bilities for integrating cognitive planning into robotic systems. In this work, we present a novel framework for solving the object goal navigation problem that generates efficient exploration strategies. Our approach enables a robot to navi gate unfamiliar environments by leveraging LLMs and LVLMs to understand the semantic structure of the scene. To address the challenge of representing com plex environments without overwhelming the system, we propose a 3D modular scene representation, enriched with semantic descriptions. This representation is dynamically pruned using an LLM-based mechanism, which filters irrelevant information and focuses on task-specific data. By combining these elements, our system generates high-level sub-goals that guide the robot\u2019s exploration toward the target object. We validate our approach in simulated environments, demonstrat ing its ability to enhance object search efficiency while maintaining scalability in complex settings.",
+    "ProjectId": "01JT7XWHQ0H2CEDCRR3P31KA0T",
+    "MustRead": true,
+    "ArticleKeySemantics": [
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 0,
+        "Type": "topic",
+        "Value": "Cognitive Planning"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 1,
+        "Type": "topic",
+        "Value": "Object Goal Navigation"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 2,
+        "Type": "topic",
+        "Value": "Generative AI Models"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 3,
+        "Type": "topic",
+        "Value": "Robotics"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 4,
+        "Type": "topic",
+        "Value": "Artificial Intelligence"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 5,
+        "Type": "entity",
+        "Value": "Large Language Models (LLMs)"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 6,
+        "Type": "entity",
+        "Value": "Large Vision-Language Models (LVLMs)"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 7,
+        "Type": "entity",
+        "Value": "Robots"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 8,
+        "Type": "entity",
+        "Value": "Environments"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 9,
+        "Type": "entity",
+        "Value": "Scene Representations"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 10,
+        "Type": "keyword",
+        "Value": "Cognitive Planning"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 11,
+        "Type": "keyword",
+        "Value": "Object Goal Navigation"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 12,
+        "Type": "keyword",
+        "Value": "Generative AI"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 13,
+        "Type": "keyword",
+        "Value": "Large Language Models"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 14,
+        "Type": "keyword",
+        "Value": "Robotics"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 15,
+        "Type": "keyword",
+        "Value": "Artificial Intelligence"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 16,
+        "Type": "keyword",
+        "Value": "Semantic Structure"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 17,
+        "Type": "keyword",
+        "Value": "3D Modular Scene Representation"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 18,
+        "Type": "keyword",
+        "Value": "LLM-based Mechanism"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 19,
+        "Type": "keyword",
+        "Value": "Task-specific Data"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 20,
+        "Type": "keyword",
+        "Value": "High-level Sub-goals"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 21,
+        "Type": "keyword",
+        "Value": "Efficiency"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "KeySemanticIndex": 22,
+        "Type": "keyword",
+        "Value": "Scalability"
+      }
+    ],
+    "ArticleRelevances": [
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "EstimateRelevanceJobId": "01JT7XY6K5X5WJYFH3J7R4X6SD",
+        "RelevanceIndex": 0,
+        "Question": "",
+        "RelevanceScore": 0.85,
+        "ContributionScore": 0.8,
+        "IsRelevant": false,
+        "IsContributing": false,
+        "RelevanceReason": "The abstract discusses Generative AI models and their application to robotic systems, which is relevant to the question of how a robot will detect an object.",
+        "ContributionReason": "While the abstract does not directly address the question of object detection, it provides insights into the use of Generative AI models in robotics, which could potentially contribute to the development of object detection algorithms.",
+        "CreatedAt": "2025-05-02T07:21:25.353658+00:00"
+      },
+      {
+        "ArticleId": "01JT7XWHQBXZEZN47FRJ2N423D",
+        "EstimateRelevanceJobId": "01JT7XY6K5X5WJYFH3J7R4X6SD",
+        "RelevanceIndex": 1,
+        "Question": "",
+        "RelevanceScore": 0.95,
+        "ContributionScore": 0.85,
+        "IsRelevant": true,
+        "IsContributing": true,
+        "RelevanceReason": "The abstract discusses the use of generative AI models to navigate unfamiliar environments, which is directly related to the question of how a robot will navigate.",
+        "ContributionReason": "The abstract provides a framework for solving the object goal navigation problem using cognitive planning and generative AI models, which contributes to understanding how a robot will navigate.",
+        "CreatedAt": "2025-05-02T07:21:25.35419+00:00"
+      }
+    ]
+  }
+]
