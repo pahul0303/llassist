@@ -1,0 +1,31 @@
+# Build Folders
+**/bin/
+**/obj/
+
+# macOS Metadata
+.DS_Store
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.db
+*.db-shm
+*.db-wal
+
+
