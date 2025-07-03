@@ -29,3 +29,6 @@ node_modules/
 *.db-wal
 
 
+bin/
+obj/
+*.DS_Store
